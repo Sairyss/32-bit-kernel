@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.tcc": "c",
+    "algorithm": "c",
+    "fstream": "c",
+    "os.h": "c"
+  }
+}
