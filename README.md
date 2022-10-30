@@ -1,5 +1,7 @@
 # 32-bit kernel
 
+32-bit example kernel using C and Assembly.
+
 To build and run kernel you will need to [install GCC Cross-Compiler](https://wiki.osdev.org/GCC_Cross-Compiler), [qemu-system-x86_64](https://www.qemu.org/docs/master/system/target-i386.html), [nasm](https://www.nasm.us/)
 
 - `./build.sh`
